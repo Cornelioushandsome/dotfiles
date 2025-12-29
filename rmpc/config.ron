@@ -8,7 +8,7 @@
     theme: Some("mocha"),
 
     cache_dir: None,
-    lyrics_dir: Some("/home/corn/Music"),
+    lyrics_dir: Some("~/Music"),
     on_song_change: None,
     volume_step: 5,
     max_fps: 30,
