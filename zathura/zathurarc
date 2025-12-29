@@ -1,0 +1,13 @@
+
+set guioptions none
+set adjust-open width
+
+set pages-per-row 2
+set page-padding 2
+set first-page-column 1
+
+set recolor true
+set recolor-keephue true
+set recolor-lightcolor "#000000"
+set recolor-darkcolor  "#FFFFFF"
+
