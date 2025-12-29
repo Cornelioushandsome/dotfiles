@@ -1,0 +1,106 @@
+Dec 26 20:02 : exception: Failed to open '/home/corn/.config/mpd/state': No such file or directory
+Dec 26 20:02 : update: added /06 - reincarnated.flac
+Dec 26 20:40 : player: played "06 - reincarnated.flac"
+Dec 26 20:40 : update: removing 06 - reincarnated.flac
+Dec 26 20:40 : update: added GNX/12 - gloria.flac
+Dec 26 20:40 : update: added GNX/07 - tv off.flac
+Dec 26 20:40 : update: added GNX/05 - hey now.flac
+Dec 26 20:40 : update: added GNX/08 - dodger blue.flac
+Dec 26 20:40 : update: added GNX/06 - reincarnated.flac
+Dec 26 20:40 : update: added GNX/04 - man at the garden.flac
+Dec 26 20:40 : update: added GNX/01 - wacced out murals.flac
+Dec 26 20:40 : update: added GNX/02 - squabble up.flac
+Dec 26 20:40 : update: added GNX/10 - heart pt. 6.flac
+Dec 26 20:40 : update: added GNX/09 - peekaboo.flac
+Dec 26 20:40 : update: added GNX/11 - gnx.flac
+Dec 26 20:40 : update: added GNX/03 - luther.flac
+Dec 26 20:40 : update: added OK Computer/08 - Electioneering.flac
+Dec 26 20:40 : update: added OK Computer/04 - Exit Music (For a Film).flac
+Dec 26 20:40 : update: added OK Computer/07 - Fitter Happier.flac
+Dec 26 20:40 : update: added OK Computer/05 - Let Down.flac
+Dec 26 20:40 : update: added OK Computer/02 - Paranoid Android.flac
+Dec 26 20:40 : update: added OK Computer/06 - Karma Police.flac
+Dec 26 20:40 : update: added OK Computer/12 - The Tourist.flac
+Dec 26 20:40 : update: added OK Computer/10 - No Surprises.flac
+Dec 26 20:40 : update: added OK Computer/11 - Lucky.flac
+Dec 26 20:40 : update: added OK Computer/01 - Airbag.flac
+Dec 26 20:40 : update: added OK Computer/09 - Climbing Up the Walls.flac
+Dec 26 20:40 : update: added OK Computer/03 - Subterranean Homesick Alien.flac
+Dec 26 20:45 : player: played "OK Computer/01 - Airbag.flac"
+Dec 26 21:35 : player: played "GNX/06 - reincarnated.flac"
+Dec 26 23:47 : player: played "OK Computer/01 - Airbag.flac"
+Dec 27 11:24 : player: played "OK Computer/01 - Airbag.flac"
+Dec 27 11:39 : player: played "OK Computer/01 - Airbag.flac"
+Dec 27 11:41 : player: played "GNX/01 - wacced out murals.flac"
+Dec 27 12:10 : player: played "OK Computer/01 - Airbag.flac"
+Dec 27 12:10 : update: removing OK Computer/12 - The Tourist.flac
+Dec 27 12:10 : update: removing OK Computer/11 - Lucky.flac
+Dec 27 12:10 : update: removing OK Computer/10 - No Surprises.flac
+Dec 27 12:10 : update: removing OK Computer/09 - Climbing Up the Walls.flac
+Dec 27 12:10 : update: removing OK Computer/08 - Electioneering.flac
+Dec 27 12:10 : update: removing OK Computer/07 - Fitter Happier.flac
+Dec 27 12:10 : update: removing OK Computer/06 - Karma Police.flac
+Dec 27 12:10 : update: removing OK Computer/05 - Let Down.flac
+Dec 27 12:10 : update: removing OK Computer/04 - Exit Music (For a Film).flac
+Dec 27 12:10 : update: removing OK Computer/03 - Subterranean Homesick Alien.flac
+Dec 27 12:10 : update: removing OK Computer/02 - Paranoid Android.flac
+Dec 27 12:10 : update: removing OK Computer/01 - Airbag.flac
+Dec 27 12:10 : update: removing GNX/12 - gloria.flac
+Dec 27 12:10 : update: removing GNX/11 - gnx.flac
+Dec 27 12:10 : update: removing GNX/10 - heart pt. 6.flac
+Dec 27 12:10 : update: removing GNX/09 - peekaboo.flac
+Dec 27 12:10 : update: removing GNX/08 - dodger blue.flac
+Dec 27 12:10 : update: removing GNX/07 - tv off.flac
+Dec 27 12:10 : update: removing GNX/06 - reincarnated.flac
+Dec 27 12:10 : update: removing GNX/05 - hey now.flac
+Dec 27 12:10 : update: removing GNX/04 - man at the garden.flac
+Dec 27 12:10 : update: removing GNX/03 - luther.flac
+Dec 27 12:10 : update: removing GNX/02 - squabble up.flac
+Dec 27 12:10 : update: removing GNX/01 - wacced out murals.flac
+Dec 27 12:10 : update: added Radiohead/OK Computer/08 - Electioneering.flac
+Dec 27 12:10 : update: added Radiohead/OK Computer/04 - Exit Music (For a Film).flac
+Dec 27 12:10 : update: added Radiohead/OK Computer/07 - Fitter Happier.flac
+Dec 27 12:10 : update: added Radiohead/OK Computer/05 - Let Down.flac
+Dec 27 12:10 : update: added Radiohead/OK Computer/02 - Paranoid Android.flac
+Dec 27 12:10 : update: added Radiohead/OK Computer/06 - Karma Police.flac
+Dec 27 12:10 : update: added Radiohead/OK Computer/12 - The Tourist.flac
+Dec 27 12:10 : update: added Radiohead/OK Computer/10 - No Surprises.flac
+Dec 27 12:10 : update: added Radiohead/OK Computer/11 - Lucky.flac
+Dec 27 12:10 : update: added Radiohead/OK Computer/01 - Airbag.flac
+Dec 27 12:10 : update: added Radiohead/OK Computer/09 - Climbing Up the Walls.flac
+Dec 27 12:10 : update: added Radiohead/OK Computer/03 - Subterranean Homesick Alien.flac
+Dec 27 12:10 : update: added Kendrick Lamar/GNX/12 - gloria.flac
+Dec 27 12:10 : update: added Kendrick Lamar/GNX/07 - tv off.flac
+Dec 27 12:10 : update: added Kendrick Lamar/GNX/05 - hey now.flac
+Dec 27 12:10 : update: added Kendrick Lamar/GNX/08 - dodger blue.flac
+Dec 27 12:10 : update: added Kendrick Lamar/GNX/06 - reincarnated.flac
+Dec 27 12:10 : update: added Kendrick Lamar/GNX/04 - man at the garden.flac
+Dec 27 12:10 : update: added Kendrick Lamar/GNX/01 - wacced out murals.flac
+Dec 27 12:10 : update: added Kendrick Lamar/GNX/02 - squabble up.flac
+Dec 27 12:10 : update: added Kendrick Lamar/GNX/10 - heart pt. 6.flac
+Dec 27 12:10 : update: added Kendrick Lamar/GNX/09 - peekaboo.flac
+Dec 27 12:10 : update: added Kendrick Lamar/GNX/11 - gnx.flac
+Dec 27 12:10 : update: added Kendrick Lamar/GNX/03 - luther.flac
+Dec 27 12:24 : player: played "Kendrick Lamar/GNX/01 - wacced out murals.flac"
+Dec 27 12:41 : player: played "Radiohead/OK Computer/04 - Exit Music (For a Film).flac"
+Dec 27 17:18 : player: played "Radiohead/OK Computer/02 - Paranoid Android.flac"
+Dec 27 17:23 : player: played "Radiohead/OK Computer/03 - Subterranean Homesick Alien.flac"
+Dec 27 17:27 : player: played "Radiohead/OK Computer/04 - Exit Music (For a Film).flac"
+Dec 27 17:33 : player: played "Radiohead/OK Computer/05 - Let Down.flac"
+Dec 27 17:38 : player: played "Radiohead/OK Computer/06 - Karma Police.flac"
+Dec 27 17:40 : player: played "Radiohead/OK Computer/07 - Fitter Happier.flac"
+Dec 27 17:44 : player: played "Radiohead/OK Computer/08 - Electioneering.flac"
+Dec 27 17:49 : player: played "Radiohead/OK Computer/09 - Climbing Up the Walls.flac"
+Dec 27 17:53 : player: played "Radiohead/OK Computer/10 - No Surprises.flac"
+Dec 27 17:57 : player: played "Radiohead/OK Computer/11 - Lucky.flac"
+Dec 27 18:02 : player: played "Radiohead/OK Computer/12 - The Tourist.flac"
+Dec 27 21:28 : player: played "Kendrick Lamar/GNX/01 - wacced out murals.flac"
+Dec 27 21:28 : player: played "Radiohead/OK Computer/01 - Airbag.flac"
+Dec 27 22:35 : player: played "Radiohead/OK Computer/01 - Airbag.flac"
+Dec 28 18:00 : player: played "Radiohead/OK Computer/01 - Airbag.flac"
+Dec 28 18:07 : player: played "Kendrick Lamar/GNX/01 - wacced out murals.flac"
+Dec 28 18:09 : player: played "Kendrick Lamar/GNX/02 - squabble up.flac"
+Dec 28 18:12 : player: played "Kendrick Lamar/GNX/03 - luther.flac"
+Dec 28 18:17 : player: played "Kendrick Lamar/GNX/03 - luther.flac"
+Dec 28 18:21 : player: played "Kendrick Lamar/GNX/04 - man at the garden.flac"
+Dec 28 18:29 : player: played "Kendrick Lamar/GNX/05 - hey now.flac"

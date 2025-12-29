@@ -1,0 +1,22 @@
+sw_volume: 100
+audio_device_state:1:PipeWire Output
+state: pause
+current: 0
+time: 171.658000
+random: 0
+repeat: 1
+single: 0
+consume: 1
+crossfade: 0
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:Kendrick Lamar/GNX/05 - hey now.flac
+1:Kendrick Lamar/GNX/06 - reincarnated.flac
+2:Kendrick Lamar/GNX/07 - tv off.flac
+3:Kendrick Lamar/GNX/08 - dodger blue.flac
+4:Kendrick Lamar/GNX/09 - peekaboo.flac
+5:Kendrick Lamar/GNX/10 - heart pt. 6.flac
+6:Kendrick Lamar/GNX/11 - gnx.flac
+7:Kendrick Lamar/GNX/12 - gloria.flac
+playlist_end
